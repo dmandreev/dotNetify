@@ -122,7 +122,7 @@ var dotNetify = {};
          return proxies;
       };
 
-      signalR.hub = $.hubConnection("/signalr", { useDefaultPath: false });
+      signalR.hub = $.hubConnection("signalr", { useDefaultPath: false });
       $.extend(signalR, signalR.hub.createHubProxies());
 
    }($, window));
