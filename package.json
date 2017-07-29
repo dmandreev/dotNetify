@@ -1,6 +1,6 @@
 {
-   "name": "dotnetify",
-   "version": "2.0.5-beta",
+   "name": "dotnetify-path-fix",
+   "version": "1.0.0-beta",
    "description": "Simple, lightweight, yet powerful way to build realtime .NET web apps.",
    "main": "dist/dotnetify-react.js",
    "files": [
@@ -18,7 +18,7 @@
    },
    "repository": {
       "type": "git",
-      "url": "https://github.com/dsuryd/dotNetify.git"
+      "url": "https://github.com/dmandreev/dotNetify.git"
    },
    "keywords": [
       "dotnetify",
